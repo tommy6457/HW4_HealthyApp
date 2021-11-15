@@ -1,0 +1,43 @@
+<svg width="375" height="49" viewBox="0 0 375 49" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-.1%" y="-1.5%" width="100.1%" height="102%" filterUnits="objectBoundingBox" id="a">
+            <feOffset dy="-.5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0" in="shadowOffsetOuter1"/>
+        </filter>
+        <path id="b" d="M15.625 0h375v49h-375z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(-15.625)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill-opacity=".82" fill="#F8F8F8" xlink:href="#b"/>
+        </g>
+        <path d="M281 0h93.75v49H281z"/>
+        <text transform="translate(265.375 35)" fill="#8A8A8F" font-family="Helvetica" font-size="10" letter-spacing=".12">
+                            <tspan x="38.282" y="10">Medical ID</tspan>
+                        </text>
+        <path d="M330.484 16.036V7h-4.968v9.036l.745-.433-7.346-4.268-.43-.25-.249.433-1.988 3.464-.248.433.43.25 7.347 4.268v-.866l-7.347 4.268-.43.25.248.433 1.988 3.464.248.433.43-.25 7.347-4.268-.745-.433V32h4.968v-9.036l-.745.433 7.346 4.268.43.25.249-.433 1.988-3.464.248-.433-.43-.25-7.347-4.268v.866l7.347-4.268.43-.25-.248-.433-1.988-3.464-.248-.433-.43.25-7.347 4.268z" fill="#A1A1A1" fill-rule="nonzero"/>
+        <path d="M188 0h93.75v49H188z"/>
+        <text transform="translate(172.375 35)" fill="#8A8A8F" font-family="Helvetica" font-size="10" letter-spacing=".12">
+                            <tspan x="43.738" y="10">Sources</tspan>
+                        </text>
+        <path d="M246.255 16.428c-.473-1.207-1.053-2.715-3.089-3.769-1.75-.903-4.174-.854-6.034-.145-.526.2-1.734 1.04-2.486 1.583V7.151c0-.36-.29-.651-.646-.651a.648.648 0 0 0-.646.651v6.946h1.292v7.662l3.058-2.822a.643.643 0 0 1 .912.04.653.653 0 0 1-.04.92L234 24.12l-4.577-4.224a.655.655 0 0 1-.04-.919.642.642 0 0 1 .914-.04l3.057 2.822v-7.662c-.753-.542-1.96-1.383-2.486-1.583-1.86-.709-4.284-.758-6.034.145-2.038 1.054-2.617 2.562-3.09 3.769-.472 1.207-.207 3.626.342 4.899.38.88 1.73 2.897 4.257 4.987 1.143.944 2.846 2.138 4.47 3.182C232.211 30.398 234 31.5 234 31.5s1.789-1.102 3.187-2.004c1.625-1.044 3.327-2.238 4.47-3.182 2.528-2.09 3.877-4.107 4.257-4.987.549-1.273.814-3.692.34-4.899" fill="#A1A1A1"/>
+        <g>
+            <path d="M94 0h93.75v49H94z"/>
+            <text transform="translate(78.375 35)" fill="#FF2D55" font-family="Helvetica" font-size="10" letter-spacing=".12">
+                            <tspan x="35.436" y="10">Health Data</tspan>
+                        </text>
+            <path d="M150 20c1.105 0 2 .887 2 2v6c0 1.105-.887 2-2 2h-6c-1.105 0-2-.887-2-2v-6c0-1.105.887-2 2-2h6zm-12 0c1.105 0 2 .887 2 2v6c0 1.105-.887 2-2 2h-6c-1.105 0-2-.887-2-2v-6c0-1.105.887-2 2-2h6zm0-12c1.105 0 2 .887 2 2v6c0 1.105-.887 2-2 2h-6c-1.105 0-2-.887-2-2v-6c0-1.105.887-2 2-2h6zm12 0c1.105 0 2 .887 2 2v6c0 1.105-.887 2-2 2h-6c-1.105 0-2-.887-2-2v-6c0-1.105.887-2 2-2h6z" fill="#FF2D55"/>
+        </g>
+        <g>
+            <path d="M0 0h93.75v49H0z"/>
+            <text transform="translate(-15.625 35)" fill="#8A8A8F" font-family="Helvetica" font-size="10" letter-spacing=".12">
+                            <tspan x="48.858" y="10">Today</tspan>
+                        </text>
+            <g transform="translate(32 6)">
+                <rect stroke="#A1A1A1" x="4" y="2" width="22" height="21.5" rx="2"/>
+                <path d="M26 7v16.1H4V7h22zm-7.25 11.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-7 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm3.5 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-7 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm10.5-5.5a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5zm-3.5 1a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-3.5 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-3.5 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm14 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm0-4.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-7 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm3.5 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-7 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z" fill="#A1A1A1"/>
+            </g>
+        </g>
+    </g>
+</svg>
